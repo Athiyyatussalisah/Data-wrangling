@@ -1,0 +1,694 @@
+WILAYAH,KECAMATAN,NAMA FASKES (Rumah Sakit dan Puskesmas),Jenis Penyakit,Total,Bulan,Tahun,so2,no2,co,no3
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,279,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,29,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,326,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,157,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,268,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,297,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,1,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,181,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,305,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,221,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,255,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,289,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,1,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,198,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,330,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,213,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,201,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,349,Januari,2024,17.58,17.77,64.71,55.16
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,12,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,331,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,232,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,275,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,298,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,1,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,161,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,1,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,295,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,1,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,313,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,1,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,256,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,1,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,349,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,293,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,1,Februari,2024,15.62,18.69,66.34,60.45
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,27,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,348,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,235,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,298,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,253,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,339,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,238,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,327,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,1,Maret,2024,10.68,6.77,13.48,42.16
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,27,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,348,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,235,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,298,April,2024,9.67,11.27,13.7,34.5
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,253,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,339,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,238,April,2024,9.67,11.27,13.7,34.5
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,327,April,2024,9.67,11.27,13.7,34.5
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,1,April,2024,9.67,11.27,13.7,34.5
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,258,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,338,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,20,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,240,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,106,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,275,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,333,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,146,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,266,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,260,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,167,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,281,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,281,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,349,Mei,2024,27.35,13.55,12.48,40.71
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,197,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,267,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,8,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,196,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,203,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,15,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,290,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,242,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,322,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,344,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,228,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,305,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,129,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,285,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,284,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,227,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,201,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,327,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,264,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,302,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,281,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,164,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,337,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,244,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,290,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,208,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,349,Juni,2024,30.87,15.1,17.13,41.03
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,255,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,9,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,292,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,33,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,239,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,345,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,274,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,267,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,284,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,343,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,345,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,1,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,259,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,349,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,1,Juli,2024,31.65,16.0,22.1,43.06
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,318,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,43,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,103,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,280,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,331,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,349,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,1,Agustus,2024,35.94,21.77,13.9,47.1
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,210,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,13,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,343,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,258,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,222,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,313,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,291,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,343,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,330,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,278,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,317,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,330,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,230,September,2024,35.77,21.73,14.67,38.6
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,290,September,2024,35.77,21.73,14.67,38.6
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,349,September,2024,35.77,21.73,14.67,38.6
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,181,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,13,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,298,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,314,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,227,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,271,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,306,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,321,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,284,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,316,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,215,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,327,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,308,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,219,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,349,Oktober,2024,33.19,22.71,14.35,51.26
+Surabaya Barat,Asem Rowo,Puskesmas Asemrowo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Wiyung,Puskesmas Balas Klumprik,Penyakit pada sistem pernafasan,212,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Tandes,Puskesmas Balongsari,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Lakarsantri,Puskesmas Bangkingan,Penyakit pada sistem pernafasan,10,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Sawahan,Puskesmas Banyu Urip,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Pakal,Puskesmas Benowo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Kenjeran,Puskesmas Bulak Banteng,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Pusat,Tegalsari,Puskesmas Dr. Soetomo,Penyakit pada sistem pernafasan,288,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Dukuh Pakis,Puskesmas Dukuh Kupang,Penyakit pada sistem pernafasan,303,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Krembangan,Puskesmas Dupak,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Tambaksari,Puskesmas Gading,Penyakit pada sistem pernafasan,266,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Gayungan,Puskesmas Gayungan,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Pusat,Bubutan,Puskesmas Gundih,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Gunung Anyar,Puskesmas Gunung Anyar,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Wonokromo,Puskesmas Jagir,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Wonocolo,Puskesmas Jemursari,Penyakit pada sistem pernafasan,141,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Lakarsantri,Puskesmas Jeruk,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Mulyorejo,Puskesmas Kalijudan,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Rungkut,Puskesmas Kalirungkut,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Jambangan,Puskesmas Kebonsari,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Pusat,Tegalsari,Puskesmas Kedungdoro,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Karang Pilang,Puskesmas Kedurus,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Bulak,Puskesmas Kenjeran,Penyakit pada sistem pernafasan,324,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Sukolilo,Puskesmas Keputih,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Pusat,Genteng,Puskesmas Ketabang,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Sukolilo,Puskesmas Klampis Ngasem,Penyakit pada sistem pernafasan,201,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Krembangan,Puskesmas Krembangan Selatan,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Lakarsantri,Puskesmas Lidah Kulon,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Sambikerep,Puskesmas Lontar,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Sambikerep,Puskesmas Made,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Tandes,Puskesmas Manukan Kulon,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Rungkut,Puskesmas Medokan Ayu,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Sukolilo,Puskesmas Menur,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Gubeng,Puskesmas Mojo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Krembangan,Puskesmas Morokrembangan,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Mulyorejo,Puskesmas Mulyorejo,Penyakit pada sistem pernafasan,301,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Wonokromo,Puskesmas Ngagelrejo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Tambaksari,Puskesmas Pacarkeling,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Sawahan,Puskesmas Pakis,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Semampir,Puskesmas Pegirian,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Pusat,Genteng,Puskesmas Peneleh,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Pabean Cantian,Puskesmas Perak Timur,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Gubeng,Puskesmas Pucangsewu,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Sawahan,Puskesmas Putat Jaya,Penyakit pada sistem pernafasan,284,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Tambaksari,Puskesmas Rangkah,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Semampir,Puskesmas Sawah Pulo,Penyakit pada sistem pernafasan,113,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Sawahan,Puskesmas Sawahan,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Benowo,Puskesmas Sememi,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Wonocolo,Puskesmas Sidosermo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Semampir,Puskesmas Sidotopo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Kenjeran,Puskesmas Sidotopo Wetan,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Pusat,Simokerto,Puskesmas Simolawang,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Sukomanunggal,Puskesmas Simomulyo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Wonocolo,Puskesmas Siwalankerto,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Kenjeran,Puskesmas Tambak Wedi,Penyakit pada sistem pernafasan,234,November,2024,35.33,22.4,16.03,39.3
+Surabaya Pusat,Simokerto,Puskesmas Tambakrejo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Kenjeran,Puskesmas Tanah Kali Kedinding,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Barat,Sukomanunggal,Puskesmas Tanjungsari,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Pusat,Bubutan,Puskesmas Tembok Dukuh,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Timur,Tenggilis Mejoyo,Puskesmas Tenggilis,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Wiyung,Puskesmas Wiyung,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
+Surabaya Selatan,Wonokromo,Puskesmas Wonokromo,Penyakit pada sistem pernafasan,255,November,2024,35.33,22.4,16.03,39.3
+Surabaya Utara,Semampir,Puskesmas Wonokusumo,Penyakit pada sistem pernafasan,349,November,2024,35.33,22.4,16.03,39.3
